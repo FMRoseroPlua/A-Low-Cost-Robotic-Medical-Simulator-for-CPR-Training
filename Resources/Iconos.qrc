@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="main">
+    <file>Icono.png</file>
+  </qresource>
+  <qresource prefix="Botones">
+    <file>open.ico</file>
+    <file>Save.png</file>
+    <file>instruction.png</file>
+    <file>res1.png</file>
+    <file>stop.png</file>
+    <file>BRIGHTS HOME.png</file>
+    <file>BRIGHTS STOP.png</file>
+    <file>FIRST AID.png</file>
+    <file>Instrucciones.png</file>
+    <file>patologias.png</file>
+    <file>intubacion2.png</file>
+    <file>WTM 1.png</file>
+  </qresource>
+  <qresource prefix="Imagenes">
+    <file>ViaR.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+cd C:\Python34\Lib\site-packages\PyQt4
+pyuic4 -x D:\Mio\Espe\Tesis\Interfaz\Interfaz_RCP\GUIs\RcpWin.ui -o D:\Mio\Espe\Tesis\Interfaz\Interfaz_RCP\GUIs\RcpWin.py
+
+pyrcc4 -py3 D:\Mio\Espe\Tesis\Interfaz\Interfaz_RCP\Resources\Iconos.qrc -o D:\Mio\Espe\Tesis\Interfaz\Interfaz_RCP\Resources\Iconos.py
